@@ -1,4 +1,3 @@
-
 # FEHRobot
 An autonomous robot designed and programmed to complete the Brutus Garden course using PID-controlled motion, sensor integration, and task sequencing.
 
