@@ -1,3 +1,5 @@
+<img width="580" height="495" alt="Screenshot 2026-03-30 143319" src="https://github.com/user-attachments/assets/4ace7408-744f-4841-a95d-7716378fcc97" />
+<img width="640" height="556" alt="Screenshot 2026-03-30 143310" src="https://github.com/user-attachments/assets/dd26419e-f09e-4981-a415-76c4a6ebe70b" />
 # FEHRobot
 An autonomous robot designed and programmed to complete the Brutus Garden course using PID-controlled motion, sensor integration, and task sequencing.
 
