@@ -1,5 +1,5 @@
 # AutonomousRobot
-An autonomous robot designed and programmed to complete the Brutus Garden course using PID-controlled motion, sensor integration, and task sequencing.
+An autonomous robot designed and programmed to complete the Brutus (Ohio State's Mascot) Garden course using PID-controlled motion, sensor integration, and task sequencing.
 
 - Completed full course in 1:56  
 - Achieved all primary and secondary points  
