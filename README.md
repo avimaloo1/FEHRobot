@@ -29,7 +29,7 @@ An autonomous robot designed and programmed to complete the Brutus (Ohio State's
   - Optical line sensors
 - Actuators:
   - Dual DC motors
-  - Servo-controlled arm
+  - Servo-controlled arm with a Servo motor 
 
 # PID Motor Control
 
